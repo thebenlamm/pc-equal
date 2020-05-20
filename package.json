@@ -1,0 +1,23 @@
+{
+  "name": "pc-equal",
+  "version": "1.0.0",
+  "description": "Test for equality with sensitivity towards others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebenlamm/pc-equal.git"
+  },
+  "keywords": [
+    "equality",
+    "pc"
+  ],
+  "author": "Ben Lamm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebenlamm/pc-equal/issues"
+  },
+  "homepage": "https://github.com/thebenlamm/pc-equal#readme"
+}
